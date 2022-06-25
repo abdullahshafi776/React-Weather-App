@@ -1,0 +1,112 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bretpettttt",
+      "email": "Sincere@april.biz",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "address": {
+        "street": "Victor Plains",
+        "suite": "Suite 879",
+        "city": "Wisokyburgh",
+        "zipcode": "90566-7771",
+        "geo": {
+          "lat": "-43.9509",
+          "lng": "-34.4618"
+        }
+      },
+      "phone": "010-692-6593 x09125",
+      "website": "anastasia.net",
+      "company": {
+        "name": "Deckow-Crist",
+        "catchPhrase": "Proactive didactic contingency",
+        "bs": "synergize scalable supply-chains"
+      }
+    },
+    {
+      "name": "Abdullah shafi",
+      "username": "abdullah",
+      "email": "abdullah@gmail.com",
+      "address": "lahore",
+      "phone": "1131391919",
+      "id": 11
+    },
+    {
+      "name": "Waqas",
+      "username": "Bajwa",
+      "email": "waqas@gmail.com",
+      "address": "lahore",
+      "phone": "92329203",
+      "id": 12
+    },
+    {
+      "name": "Viki",
+      "username": "farhan",
+      "email": "viki@gmail.com",
+      "address": "lahore",
+      "phone": "08208302832",
+      "id": 13
+    },
+    {
+      "name": "burhan",
+      "username": "farhan",
+      "email": "abdullah@gmail.com",
+      "address": "lahore",
+      "phone": "08420842048",
+      "id": 14
+    },
+    {
+      "name": "dada",
+      "username": "dadagg",
+      "email": "hafizumairnaveed111@gmail.com",
+      "address": "dadada",
+      "phone": "1-770-736-8031 x56442",
+      "id": 15
+    }
+  ],
+  "schools": [
+    {
+      "id": 1,
+      "schoolname": "Scholar School",
+      "classname": 5
+    },
+    {
+      "id": "1633597243679",
+      "schoolname": "Abdullah",
+      "classname": "20"
+    },
+    {
+      "id": "1633598142303",
+      "schoolname": "Allied",
+      "classname": "School"
+    },
+    {
+      "id": "1637757858172",
+      "schoolname": "sam",
+      "classname": "09870"
+    }
+  ]
+}
