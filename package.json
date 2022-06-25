@@ -1,6 +1,7 @@
 {
-    "name": "my-app",
+    "name": "react-weather-app",
     "version": "0.1.0",
+    "homepage": "https://abdullahshafi776.github.io/React-Weather-App",
     "private": true,
     "dependencies": {
         "@testing-library/jest-dom": "^5.14.1",
@@ -9,6 +10,7 @@
         "axios": "^0.21.4",
         "bootstrap": "^5.1.0",
         "concurrently": "^6.2.1",
+        "gh-pages": "^4.0.0",
         "json-server": "^0.16.3",
         "react": "^17.0.2",
         "react-dom": "^17.0.2",
@@ -20,9 +22,9 @@
         "web-vitals": "^1.1.2"
     },
     "scripts": {
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build",
         "start": "react-scripts start",
-        "json-server": "json-server --watch db.json --port 3003",
-        "start:dev": "concurrently \"npm start\" \"npm run json-server\"",
         "build": "react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject"
