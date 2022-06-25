@@ -22,6 +22,7 @@ export default function Weather() {
             <div className="pt-3">
               <input
                 type="text"
+                placeholder="Enter City"
                 className="inp_feild form-control"
                 onChange={(e) => setSearch(e.target.value)}
               />
